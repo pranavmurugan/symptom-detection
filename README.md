@@ -1,6 +1,6 @@
 # Natural Language Processing for Symptom Detection in Unstructured Provider-Patient Conversation
 ## Anisha Agarwal, Tiana Cui, Carlo Duffy and Pranav Murugan 
-##6.871 Final Project Repository
+## 6.871 Final Project Repository
 
 ## Instructions for Use:
 

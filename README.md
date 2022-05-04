@@ -1,10 +1,10 @@
 # Natural Language Processing for Symptom Detection in Unstructured Provider-Patient Conversation
-## Anisha Agarwal, Tiana Cui, Carlo Duffy and Pranav Murugan
-## 6.871 Final Project Repository
+## Anisha Agarwal, Tiana Cui, Carlo Duffy and Pranav Murugan 
+##6.871 Final Project Repository
 
 ## Instructions for Use:
 
-## Bag of Words
+### Bag of Words
 
 ### Processing 
   - Run bow_processing.py to obtain count-vectorized representations of each turn, which will be saved in `cv_data.csv`

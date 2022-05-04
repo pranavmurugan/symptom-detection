@@ -1,5 +1,6 @@
-# NLP for Symptom Detection in Oncology
-## 6.871 Final Project Repository of Anisha Agarwal, Tiana Cui, Carlo Duffy and Pranav Murugan
+# Natural Language Processing for Symptom Detection in Unstructured Provider-Patient Conversation
+## Anisha Agarwal, Tiana Cui, Carlo Duffy and Pranav Murugan
+## 6.871 Final Project Repository
 
 ## Instructions for Use:
 
